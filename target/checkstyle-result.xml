@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\dao\CinemaHallDao.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\dao\impl\CinemaHallDaoImpl.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\dao\impl\MovieDaoImpl.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\dao\impl\MovieSessionDaoImpl.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\dao\impl\OrderDaoImpl.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\dao\impl\ShoppingCartDaoImpl.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\dao\impl\TicketDaoImpl.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\dao\impl\UserDaoImpl.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\dao\MovieDao.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\dao\MovieSessionDao.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\dao\OrderDao.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\dao\ShoppingCartDao.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\dao\TicketDao.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\dao\UserDao.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\exception\AuthenticationException.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\exception\DataProcessingException.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\exception\RegistrationException.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\lib\Dao.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\lib\Inject.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\lib\Injector.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\lib\Service.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\Main.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\model\CinemaHall.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\model\Movie.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\model\MovieSession.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\model\Order.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\model\ShoppingCart.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\model\Ticket.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\model\User.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\security\AuthenticationService.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\security\AuthenticationServiceImpl.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\service\CinemaHallService.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\service\impl\CinemaHallServiceImpl.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\service\impl\MovieServiceImpl.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\service\impl\MovieSessionServiceImpl.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\service\impl\OrderServiceImpl.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\service\impl\ShoppingCartServiceImpl.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\service\impl\UserServiceImpl.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\service\MovieService.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\service\MovieSessionService.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\service\OrderService.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\service\ShoppingCartService.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\service\UserService.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\util\HashUtil.java">
+</file>
+<file name="C:\Users\User\IdeaProjects\cinema-app\src\main\java\util\HibernateUtil.java">
+</file>
+</checkstyle>
