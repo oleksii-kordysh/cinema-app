@@ -1,8 +1,8 @@
 package api.dao;
 
+import api.model.CinemaHall;
 import java.util.List;
 import java.util.Optional;
-import api.model.CinemaHall;
 
 public interface CinemaHallDao {
     CinemaHall add(CinemaHall cinemaHall);

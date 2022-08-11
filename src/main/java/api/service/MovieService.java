@@ -1,7 +1,7 @@
 package api.service;
 
-import java.util.List;
 import api.model.Movie;
+import java.util.List;
 
 public interface MovieService {
     Movie add(Movie movie);
