@@ -1,16 +1,18 @@
 package api.service.impl;
 
 import api.dao.CinemaHallDao;
-import java.util.List;
-import api.lib.Inject;
-import api.lib.Service;
 import api.model.CinemaHall;
 import api.service.CinemaHallService;
+import java.util.List;
+import org.springframework.stereotype.Service;
 
 @Service
 public class CinemaHallServiceImpl implements CinemaHallService {
-    @Inject
-    private CinemaHallDao cinemaHallDao;
+    private final CinemaHallDao cinemaHallDao;
+
+    public CinemaHallServiceImpl(CinemaHallDao cinemaHallDao) {
+        this.cinemaHallDao = cinemaHallDao;
+    }
 
     @Override
     public CinemaHall add(CinemaHall cinemaHall) {
@@ -19,7 +21,8 @@ public class CinemaHallServiceImpl implements CinemaHallService {
 
     @Override
     public CinemaHall get(Long id) {
-        return cinemaHallDao.get(id).get();
+        return cinemaHallDao.get(id).orElseThrow(
+                () -> new RuntimeException("Can't get cinema hall by id " + id));
     }
 
     @Override

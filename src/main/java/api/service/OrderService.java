@@ -1,9 +1,9 @@
 package api.service;
 
-import java.util.List;
 import api.model.Order;
 import api.model.ShoppingCart;
 import api.model.User;
+import java.util.List;
 
 public interface OrderService {
     Order completeOrder(ShoppingCart shoppingCart);

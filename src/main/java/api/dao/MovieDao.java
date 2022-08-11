@@ -1,8 +1,8 @@
 package api.dao;
 
+import api.model.Movie;
 import java.util.List;
 import java.util.Optional;
-import api.model.Movie;
 
 public interface MovieDao {
     Movie add(Movie movie);
